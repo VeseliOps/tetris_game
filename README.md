@@ -1,1 +1,1 @@
-# Tetris-game I've made using C# in WPF
+# Tetris-game I made using C# in WPF
